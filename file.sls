@@ -1,2 +1,1 @@
-key: key
-pwd: "******"
+key: win
