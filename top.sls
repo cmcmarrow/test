@@ -1,4 +1,4 @@
 base:
-  '*'
-    - key: 'key'
-    - pwd: '******'
+  "*":
+    key: key
+    pwd: "******"
