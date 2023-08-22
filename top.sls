@@ -1,3 +1,3 @@
-base:
+master2:
   "*":
     - file
