@@ -1,4 +1,3 @@
 base:
   "*":
-    key: key
-    pwd: "******"
+    - file
